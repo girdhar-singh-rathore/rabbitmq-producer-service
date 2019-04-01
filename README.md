@@ -1,1 +1,1 @@
-# Springboot RabbitMQ Producer Server Demo Example
+# Springboot RabbitMQ Producer Service Demo Example
