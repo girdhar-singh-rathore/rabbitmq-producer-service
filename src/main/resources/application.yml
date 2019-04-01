@@ -1,0 +1,7 @@
+spring:
+  rabbitmq:
+    template:
+      exchange: TestExchange
+      routing-key: TestRouting
+    host: localhost
+    port: 5672
